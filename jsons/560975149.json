@@ -1,0 +1,72 @@
+{
+  "Primary Source": [
+    "819848608.json"
+  ],
+  "Secondary Source": [
+    "727286893.json"
+  ],
+  "conceptId": "560975149",
+  "Question Text": "Location ID, site specific",
+  "Variable Label": "Location ID, site specific",
+  "Variable Name": [
+    "BioShip_LocalID_v1r0"
+  ],
+  "Variable Type": "Num",
+  "Variable Length": "1",
+  "Required": "Yes",
+  "PII": "No",
+  "Notes": "Options will differ by site, drop down options will be populated using site login information",
+  "Dictionary": "Biospecimen Shipping",
+  "State Attribute": "No",
+  "Default Variable": "No",
+  "Formula for Index": [
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497"
+  ],
+  "Index": [
+    "486",
+    "487",
+    "488",
+    "489",
+    "490",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497"
+  ],
+  "Format/Value": {
+    "777644826.json": "0",
+    "692275326.json": "1",
+    "698283667.json": "2",
+    "834825425.json": "3",
+    "589224449.json": "4",
+    "763273112.json": "5",
+    "531313956.json": "6",
+    "715632875.json": "7",
+    "767775934.json": "8",
+    "752948709.json": "9",
+    "570271641.json": "10",
+    "838480167.json": "11"
+  },
+  "Date added or modified": [
+    "2/3/22",
+    "6/8/22"
+  ],
+  "Question Type": [
+    "BioSpm_Location_v1r0",
+    "BioSpm_Location_v1r0"
+  ]
+}
