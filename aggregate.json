@@ -4229,7 +4229,10 @@
     "Variable Name": "Father - How old was your Father when they were first told by a doctor or other health professional that they have or had Non-Hodgkin's lymphoma cancer?"
   },
   "291959537": {
-    "Variable Name": "Is your current job the longest job you have had in the past 20 years?"
+    "Variable Label": "Current job is also longest held job in past 20 years",
+    "Variable Name": [
+      "SrvLAW_LongestCurJob_v1r0"
+    ]
   },
   "292658699": {
     "Variable Label": "Last time took ibuprofen?",
