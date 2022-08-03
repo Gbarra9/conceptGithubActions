@@ -28,12 +28,12 @@
   "State Attribute": "No",
   "Question Type": "Optional Select All that Apply",
   "Formula for Index": [
-    "6121",
-    "6122"
+    "6127",
+    "6128"
   ],
   "Index": [
-    "6121",
-    "6122"
+    "6127",
+    "6128"
   ],
   "Format/Value": {
     "104430631.json": "0",

@@ -20,12 +20,12 @@
   "PII": "No",
   "Notes": "Only display if PROGHOR=0",
   "Formula for Index": [
-    "2706",
-    "2707"
+    "2712",
+    "2713"
   ],
   "Index": [
-    "2706",
-    "2707"
+    "2712",
+    "2713"
   ],
   "Format/Value": {
     "104430631.json": "0",
